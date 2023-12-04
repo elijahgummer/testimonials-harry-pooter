@@ -8,6 +8,9 @@ Welcome to our Clients Testimonials Page! Explore positive feedback from satisfi
 - **Responsive**: Optimized for various devices. 📱
 - **Testimonial Cards**: Stylish cards with impactful quotes. 🌈
 
+- <img width="792" alt="Screenshot 2023-12-04 104853" src="https://github.com/elijahwgummer-poc/testimonials-harry-pooter/assets/96103526/8f679391-a85d-44e6-8276-c4768b7f2ca3">
+
+
 ## 🛠️ How to Use
 
 1. Clone repository:
